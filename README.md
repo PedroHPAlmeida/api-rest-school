@@ -1,4 +1,4 @@
-# API Rest para uma escola
+# API Rest - Escola
 API para gerenciamento de uma escola, possui cadastro de alunos, turmas e cursos.
 Foi criada com Spring Web, JPA, MySQL e usando Maven para gerenciar as dependências.
 
